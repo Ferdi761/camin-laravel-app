@@ -19,7 +19,7 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 
 ## Tampilan Aplikasi
 
-<img src="img/fitur-1.PNG" alt="fitur 1">
+<img src="img/fitur-1.png" alt="fitur 1">
 
 ### Fitur 1: Menampilkan Data Pengurus (tampilan sementara)
 
